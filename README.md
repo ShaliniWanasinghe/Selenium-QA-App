@@ -1,8 +1,11 @@
+<div align="center">
+
 # Selenium QA App
 
 ## Overview
 This is a Java-based test automation project utilizing **Selenium WebDriver** to automate and test the Virtual Learning Environment (VLE) of Vavuniya University, as well as demonstrating various Selenium core concepts.
 
+</div>
 ## Prerequisites
 1. **Java Development Kit (JDK)**: Ensure JDK 11 or higher is installed and properly configured in your system's PATH.
 2. **Google Chrome**: Ensure the Google Chrome browser is installed.
@@ -51,6 +54,10 @@ This is the main testing script of the app. It tests 4 different login scenarios
 - Correct Username & Wrong Password
 - Wrong Username & Correct Password
 - Wrong Username & Wrong Password
+
+<img width="1023" height="616" alt="image" src="https://github.com/user-attachments/assets/aebfee71-03d2-437b-b618-3ea215f451aa" />
+
+
 
 **Output**: Upon completion, it automatically generates a structured PDF document named `Login_Test_Report.pdf` at the root of the project detailing the test cases, expected outcomes, actual outcomes, and Pass/Fail status.
 
