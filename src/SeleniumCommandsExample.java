@@ -5,7 +5,7 @@ public class SeleniumCommandsExample {
     public static void main(String[] args) throws InterruptedException {
 
 
-        // 2. Create WebDriver instance
+        System.setProperty("webdriver.chrome.driver", "C:\\Users\\User\\Desktop\\3rd Year\\3152-Software Quality Assurance\\TestApp\\src\\drivers\\chromedriver.exe");
         WebDriver driver = new ChromeDriver();
 
         // 3. Open a webpage

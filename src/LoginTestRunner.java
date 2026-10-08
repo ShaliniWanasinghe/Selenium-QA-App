@@ -34,6 +34,7 @@ public class LoginTestRunner {
     public static void main(String[] args) throws Exception {
 
 
+        System.setProperty("webdriver.chrome.driver", "C:\\Users\\User\\Desktop\\3rd Year\\3152-Software Quality Assurance\\TestApp\\src\\drivers\\chromedriver.exe"); // path to driver
         driver = new ChromeDriver();
         driver.manage().window().maximize();
 
