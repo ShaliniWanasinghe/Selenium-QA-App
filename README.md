@@ -6,11 +6,13 @@
 This is a Java-based test automation project utilizing **Selenium WebDriver** to automate and test the Virtual Learning Environment (VLE) of Vavuniya University, as well as demonstrating various Selenium core concepts.
 
 </div>
+
 ## Prerequisites
-1. **Java Development Kit (JDK)**: Ensure JDK 11 or higher is installed and properly configured in your system's PATH.
-2. **Google Chrome**: Ensure the Google Chrome browser is installed.
-3. **Visual Studio Code**: The project is structured to work out of the box with VS Code.
-4. **Extension Pack for Java (VS Code)**: Make sure you have Microsoft's Java extension pack installed in VS Code to run the `.java` files easily.
+1. **Java Development Kit (JDK)** : Ensure JDK 11 or higher is installed and properly configured in your system's PATH.
+2. **Google Chrome** : Ensure the Google Chrome browser is installed.
+3. **Visual Studio Code** : The project is structured to work out of the box with VS Code.
+4. **Extension Pack for Java (VS Code)** : Make sure you have Microsoft's Java extension pack installed in VS Code to run the `.java` files easily.
+
 
 ## Project Structure
 - `src/`: Contains all the Java source code for test scripts.
