@@ -1,6 +1,7 @@
 <div align="center">
 
-# Selenium QA App
+# VLE TestPilot 
+## Login Test Runner
 
 ## Overview
 This is a Java-based test automation project utilizing **Selenium WebDriver** to automate and test the Virtual Learning Environment (VLE) of Vavuniya University, as well as demonstrating various Selenium core concepts.
